@@ -1,0 +1,24 @@
+{
+  "name": "htmllint-ja-messages",
+  "version": "0.0.0",
+  "main": "htmllint-ja-messages.js",
+  "types": "htmllint-ja-messages.d.ts",
+  "repository": "git@github.com:nju33/htmllint-ja-messages.git",
+  "author": "nju33 <nju33.ki@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "htmllint",
+    "messages",
+    "ja"
+  ],
+  "files": [
+    "htmllint-ja-messages*",
+    "messages.js"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^22.4.2"
+  }
+}

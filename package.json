@@ -1,6 +1,6 @@
 {
   "name": "htmllint-ja-messages",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "htmllint-ja-messages.js",
   "types": "htmllint-ja-messages.d.ts",
   "repository": "git@github.com:nju33/htmllint-ja-messages.git",

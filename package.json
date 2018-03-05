@@ -16,9 +16,11 @@
     "messages.js"
   ],
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "coveralls": "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js"
   },
   "devDependencies": {
+    "coveralls": "^3.0.0",
     "jest": "^22.4.2"
   }
 }
